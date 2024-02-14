@@ -1,0 +1,16 @@
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\bin\Debug\net8.0-windows\hesap makinesi uygulaması.exe
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\bin\Debug\net8.0-windows\hesap makinesi uygulaması.deps.json
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\bin\Debug\net8.0-windows\hesap makinesi uygulaması.runtimeconfig.json
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\bin\Debug\net8.0-windows\hesap makinesi uygulaması.dll
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\bin\Debug\net8.0-windows\hesap makinesi uygulaması.pdb
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap_makinesi_uygulaması.Form1.resources
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap makinesi uygulaması.csproj.GenerateResource.cache
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap makinesi uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap makinesi uygulaması.AssemblyInfoInputs.cache
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap makinesi uygulaması.AssemblyInfo.cs
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap makinesi uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap makinesi uygulaması.dll
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\refint\hesap makinesi uygulaması.dll
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap makinesi uygulaması.pdb
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\hesap makinesi uygulaması.genruntimeconfig.cache
+C:\Users\zafer\source\repos\hesap makinesi uygulaması\hesap makinesi uygulaması\obj\Debug\net8.0-windows\ref\hesap makinesi uygulaması.dll
